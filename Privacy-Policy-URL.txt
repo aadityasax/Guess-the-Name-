@@ -1,0 +1,3 @@
+When you will upload the game to Google Play, you will need to specify Privacy Policy. 
+Please use this URL: 
+http://pub-wakzw-yjtsp.gameprivacypolicy.com/privacy-policy/
